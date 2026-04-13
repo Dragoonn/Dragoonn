@@ -1,6 +1,6 @@
 # Hi, I'm Dragoonn 👋
 
-I am a dedicated Web **Developer** driven by the philosophy that code should be functional, efficient, and built to last. I focus on solving complex problems with clean solutions, ensuring that every "feature" is intentional and every bug is systematically eliminated.
+I am a dedicated **Web Developer** driven by the philosophy that code should be functional, efficient, and built to last. I focus on solving complex problems with clean solutions, ensuring that every "feature" is intentional and every bug is systematically eliminated.
 
 ## 🛠 Featured Projects
 
