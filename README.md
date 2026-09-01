@@ -41,25 +41,25 @@ and ships with its own README, screenshots and a short animated walkthrough.
 | Service | Starting price | Delivery | Example |
 | :-- | :-- | :-- | :-- |
 | **Business website** | from €420 | up to 3 weeks | [ŻELAZO Barber Shop](https://dragoon.beniaminm4.workers.dev/demo/zelazo/) |
-| **Web application** | from €1850 | up to 6 weeks | [CloudNest](https://dragoon.beniaminm4.workers.dev/demo/cloudnest/) |
 
 A **business website** is your company on the web: offer, team, hours,
 directions and contact, on one page or across a few subpages, with extra
 sections — pricing, testimonials, a gallery, an FAQ — when you need them.
-A **web application** is a tool someone works in: accounts and log-in, a data
-panel, filterable tables, live calculation, integrations with an API or a
-database.
+That is what I take on right now, and I would rather do one thing properly
+than four things approximately.
 
 Prices are per project and net of VAT. They are a starting point — the final
 quote depends on scope and is always free. The delivery times shown are the
 upper bound, not the optimistic case. Larger projects can be split into stages
 paid one after another, instead of paying the whole amount up front.
 
-**What I don't do:** ads, analytics, conversion tracking and optimisation, or
-WCAG 2.1 AA conformance audits. I build the site — not the campaign, and not the
-compliance certificate. Accessibility good practice (contrast, keyboard
-operation, image descriptions) comes as standard; formal conformance is a
-specialist job and I'll say so rather than pretend otherwise.
+**What I don't do (yet):** web applications with log-in and databases, online
+payments, ads, analytics, conversion tracking, or WCAG 2.1 AA conformance
+audits. The configurator and dashboard below show those are within reach — but
+I am starting out, and I would rather name the boundary up front than discover
+it halfway through your project. Accessibility good practice (contrast,
+keyboard operation, image descriptions) comes as standard; formal conformance
+is a specialist job.
 
 ## 📋 How working with me actually looks
 
