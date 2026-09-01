@@ -23,8 +23,8 @@ Full source for every one lives in my
 
 | Project | Type of site | Weight | Demo | What it is |
 | :-- | :-- | --: | :--: | :-- |
-| **ŻELAZO Barber Shop** | Single Page | 145 kB | [🔗](https://dragoon.beniaminm4.workers.dev/demo/zelazo/) | Business-card site — pricing, team, opening hours with today highlighted, phone always within thumb's reach. |
-| **Fakturly** | Landing Page | 150 kB | [🔗](https://dragoon.beniaminm4.workers.dev/demo/fakturly/) | Conversion-focused SaaS sales page — interactive pricing, objection-killing FAQ, social proof under the hero. |
+| **ŻELAZO Barber Shop** | Business card | 145 kB | [🔗](https://dragoon.beniaminm4.workers.dev/demo/zelazo/) | Local business site — pricing, team, opening hours with today highlighted, phone always within thumb's reach. |
+| **Fakturly** | Sales page | 150 kB | [🔗](https://dragoon.beniaminm4.workers.dev/demo/fakturly/) | SaaS page built around one offer — interactive pricing, objection-killing FAQ, social proof under the hero. |
 | **CloudNest** | Product configurator | 160 kB | [🔗](https://dragoon.beniaminm4.workers.dev/demo/cloudnest/) | Cloud pricing — CPU/RAM/disk sliders and a quote that recalculates live. Replaces "request a quote" entirely. |
 | **Sales Dashboard** | App / dashboard | 151 kB | [🔗](https://dragoon.beniaminm4.workers.dev/demo/panel/) | Admin panel — KPIs, SVG chart, searchable and sortable orders table. No Chart.js, no table library. |
 | **Nexora Labs** | Corporate / B2B | 161 kB | [🔗](https://dragoon.beniaminm4.workers.dev/demo/nexora/) | Software house site — services with price ranges, filterable case studies, enquiry form that qualifies the lead. |
@@ -40,13 +40,26 @@ and ships with its own README, screenshots and a short animated walkthrough.
 
 | Service | Starting price | Delivery | Example |
 | :-- | :-- | :-- | :-- |
-| **Single Page** | €420 | up to 8 business days | [ŻELAZO Barber Shop](https://dragoon.beniaminm4.workers.dev/demo/zelazo/) |
-| **Landing Page** | €830 | up to 3 weeks | [Fakturly](https://dragoon.beniaminm4.workers.dev/demo/fakturly/) |
-| **Svelte App** | €1850 | up to 6 weeks | [CloudNest](https://dragoon.beniaminm4.workers.dev/demo/cloudnest/) |
+| **Business website** | from €420 | up to 3 weeks | [ŻELAZO Barber Shop](https://dragoon.beniaminm4.workers.dev/demo/zelazo/) |
+| **Web application** | from €1850 | up to 6 weeks | [CloudNest](https://dragoon.beniaminm4.workers.dev/demo/cloudnest/) |
+
+A **business website** is your company on the web: offer, team, hours,
+directions and contact, on one page or across a few subpages, with extra
+sections — pricing, testimonials, a gallery, an FAQ — when you need them.
+A **web application** is a tool someone works in: accounts and log-in, a data
+panel, filterable tables, live calculation, integrations with an API or a
+database.
 
 Prices are per project and net of VAT. They are a starting point — the final
 quote depends on scope and is always free. The delivery times shown are the
-upper bound, not the optimistic case.
+upper bound, not the optimistic case. Larger projects can be split into stages
+paid one after another, instead of paying the whole amount up front.
+
+**What I don't do:** ads, analytics, conversion tracking and optimisation, or
+WCAG 2.1 AA conformance audits. I build the site — not the campaign, and not the
+compliance certificate. Accessibility good practice (contrast, keyboard
+operation, image descriptions) comes as standard; formal conformance is a
+specialist job and I'll say so rather than pretend otherwise.
 
 ## 📋 How working with me actually looks
 
@@ -65,7 +78,7 @@ before I write a line of code.
 ## 🛠 Tech stack
 
 **Frontend:** `Svelte / SvelteKit` · `Svelte 5 (runes)` · `TypeScript` ·
-`Tailwind CSS v4` · `Skeleton UI v4` · `Responsive design` · `WCAG 2.1 AA`
+`Tailwind CSS v4` · `Skeleton UI v4` · `Responsive design`
 
 **Backend:** `Node.js` · `Express.js` · `REST APIs`
 
