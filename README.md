@@ -56,7 +56,7 @@ paid one after another, instead of paying the whole amount up front.
 
 **What I don't do (yet):** web applications with log-in and databases, online
 payments, ads, analytics, conversion tracking, or WCAG 2.1 AA conformance
-audits. The configurator and dashboard below show those are within reach — but
+audits. The configurator and dashboard above show those are within reach — but
 I am starting out, and I would rather name the boundary up front than discover
 it halfway through your project. Accessibility good practice (contrast,
 keyboard operation, image descriptions) comes as standard; formal conformance
