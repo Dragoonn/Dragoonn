@@ -1,8 +1,8 @@
 # Hi, I'm Dragoon 👋
 
-**Svelte & SvelteKit developer.** I build fast, lightweight websites and web
-applications — most of them ship under 160 kB, load instantly on a phone with
-bad reception, and run as static builds with no backend to fall over.
+**Svelte & SvelteKit developer.** I build fast, lightweight websites for small
+businesses — they ship under 160 kB, load instantly on a phone with bad
+reception, and run as static builds with no backend to fall over.
 
 My philosophy: every feature intentional, every dependency justified. Less
 third-party code means fewer things that go stale, break, or lose support two
@@ -16,8 +16,9 @@ clone, nothing to install.
 
 ## 🚀 Live projects
 
-Seven complete concept projects, each covering a different *type* of site — the
-point being that the type doesn't matter, the same stack handles all of them.
+Seven complete concept projects, each covering a different *type* of site. Some
+go beyond what I currently take on as paid work — they are here as proof of what
+the stack and I can do, not as a price list.
 Full source for every one lives in my
 [**`examples`**](https://github.com/Dragoonn/examples) repository.
 
