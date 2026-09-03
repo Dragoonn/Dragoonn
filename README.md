@@ -39,9 +39,9 @@ and ships with its own README, screenshots and a short animated walkthrough.
 
 ## 💼 What I build
 
-| Service | Starting price | Delivery | Example |
+| Service | Quote | Delivery | Example |
 | :-- | :-- | :-- | :-- |
-| **Business website** | from €420 | up to 3 weeks | [ŻELAZO Barber Shop](https://dragoon.beniaminm4.workers.dev/demo/zelazo/) |
+| **Business website** | individual | up to 3 weeks | [ŻELAZO Barber Shop](https://dragoon.beniaminm4.workers.dev/demo/zelazo/) |
 
 A **business website** is your company on the web: offer, team, hours,
 directions and contact, on one page or across a few subpages, with extra
@@ -49,10 +49,12 @@ sections — pricing, testimonials, a gallery, an FAQ — when you need them.
 That is what I take on right now, and I would rather do one thing properly
 than four things approximately.
 
-Prices are per project and net of VAT. They are a starting point — the final
-quote depends on scope and is always free. The delivery times shown are the
-upper bound, not the optimistic case. Larger projects can be split into stages
-paid one after another, instead of paying the whole amount up front.
+I quote every project separately — the amount depends on the number of
+subpages, extra sections and materials to prepare, so an off-the-shelf price
+list would only mislead you. Tell me what you need and you get a concrete figure
+and a deadline, free and with no obligation. Amounts are quoted net of VAT. The
+delivery times shown are the upper bound, not the optimistic case, and a larger
+project can be split into stages paid one after another.
 
 **What I don't do (yet):** web applications with log-in and databases, online
 payments, ads, analytics, conversion tracking, or WCAG 2.1 AA conformance
